@@ -1,4 +1,4 @@
-# ImageClassification
+# ImageClassification - A Simple Deep Learning Network for Image Classification
 
 ## Install & Run
 
